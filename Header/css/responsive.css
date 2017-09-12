@@ -1,0 +1,15 @@
+@media screen and (max-width: 900px){
+
+	header #menu{
+		height: 100%;
+		position: fixed;
+		background: #D1C9C8;
+		top: 0;
+		left: 0;
+		width: 300px;
+		margin: 0px auto;
+	}
+	header #menu ul a{
+		display: block;
+	}
+}

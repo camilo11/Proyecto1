@@ -1,0 +1,43 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+header{
+	width: 100%;
+	background: #D1C9C8;
+    top: 0;
+    height: 60px;
+    border-top: 4px solid #726866;
+    border-bottom: 4px solid #726866;
+}
+
+header #logo h2{
+	font-family: verdana;
+	font-size: 30px;
+	color:#fff;
+	margin: 10px 0px 0px 10px;
+}
+
+header #menu{
+	width: 500px;
+	margin:-30px auto;
+}
+
+header #menu ul a{
+	text-decoration: none;
+	color: #fff;
+	font-family: verdana;
+	font-size: 18px;
+	padding: 16px;
+	border: 6px solid transparent;
+
+}
+
+header #menu ul a:hover{
+		background:#00F0FF  ; 
+		box-shadow: 6px 6px 6px #E8FAFB  ;
+		border: 1px solid #00F0FF ;
+
+
+}
